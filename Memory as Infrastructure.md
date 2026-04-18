@@ -1,6 +1,7 @@
 # Memory as Infrastructure: Rethinking Enterprise AI Systems Beyond Stateless Models
 
-![Memory as Infrastructure](<memory as infrastructure.png>)
+![memory](<memory as infrastructure-1.png>)
+
 
 For much of its recent evolution, enterprise AI has been built on a fundamentally stateless paradigm. Models receive an input, generate an output, and move on without retaining any meaningful awareness of what came before. This approach has worked well for isolated tasks, but it begins to break down as soon as AI systems are expected to operate continuously within real-world environments.
 
