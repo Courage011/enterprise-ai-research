@@ -7,3 +7,4 @@ Ideas for Articles
 * Self improving agent systens. 
 * Self improving agent systems with dspy
 * agent security policy management - what systems exist and what is required?
+* article on ideas from https://docs.crawl4ai.com/
