@@ -4,8 +4,6 @@ Enterprise AI has, for the most part, been shaped by a single dominant idea: bet
 
 But as these systems move out of research environments and into real-world enterprise settings, a different reality begins to emerge. The problem is no longer just about building intelligence. It is about operating it.
 
-![Inference-Time Compute Architecture for Enterprise AI](<inference time.png>)
-
 This is where inference-time compute becomes critical.
 
 Inference is the moment where AI systems intersect with the real world. It is where a recommendation is generated, a fraud signal is triggered, or a decision is made. Unlike training, which happens occasionally and in controlled environments, inference happens continuously, often under strict constraints of latency, cost, and reliability. It is not an isolated event, but a persistent operational process.
